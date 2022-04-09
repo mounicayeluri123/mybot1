@@ -1,6 +1,7 @@
-# mybot1
+helo world
+mounica's bot (mounika works for free ).
+frontendcodeing  (mounica.yeluri,g.harika).
+thank you for reading
 
-hi humans
 
-hi dis is bot
 
