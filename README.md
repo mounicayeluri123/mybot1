@@ -1,7 +1,6 @@
 # mybot1
 
-hii humans
+hi humans
 
-hii dis is bot
+hi dis is bot
 
-i am an stupiddd and i like scripts
